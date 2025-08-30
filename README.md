@@ -27,4 +27,4 @@
 
 </div>
 
-[[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Hi!+I'm+Haibabara;A+Passionate+C%2B%2B+Developer;From+China]
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Haibabara.
