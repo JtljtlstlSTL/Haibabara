@@ -1,6 +1,6 @@
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Haibabara
 
-![Dark Soul III](pics/fhn.jpg)
+![Dark Soul III](pics/fhn.png)
 
 <div id="title" align=center>
 
